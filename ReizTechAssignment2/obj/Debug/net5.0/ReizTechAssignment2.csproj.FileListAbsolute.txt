@@ -1,0 +1,32 @@
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.exe
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.deps.json
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.runtimeconfig.json
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.runtimeconfig.dev.json
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.pdb
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.csproj.AssemblyReference.cache
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.AssemblyInfoInputs.cache
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.AssemblyInfo.cs
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\refint\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.pdb
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.genruntimeconfig.cache
+C:\Users\2xiKO\Desktop\ReizTechAssignment2\ReizTechAssignment2\obj\Debug\net5.0\ref\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.exe
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.deps.json
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.runtimeconfig.json
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.runtimeconfig.dev.json
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\bin\Debug\net5.0\ReizTechAssignment2.pdb
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.csproj.AssemblyReference.cache
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.AssemblyInfoInputs.cache
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.AssemblyInfo.cs
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\refint\ReizTechAssignment2.dll
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.pdb
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ReizTechAssignment2.genruntimeconfig.cache
+C:\Users\2xiKO\Desktop\Tech Reiz Assignment\ReizTechAssignment1\ReizTechAssignment2\obj\Debug\net5.0\ref\ReizTechAssignment2.dll
